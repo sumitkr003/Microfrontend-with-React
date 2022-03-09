@@ -1,2 +1,1 @@
-const container = 'Hello from container';
-console.log(container);
+import('./bootstrap');
